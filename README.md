@@ -2,7 +2,7 @@
 
 About me:
 
-- 💻 I’m a Data Analyst at Levva.
+- 💻 I’m a Data Analyst.
 - 👨‍🎓 Graduated in System Analysis and Development
 - 📫 Brazilian, Based in São João da Boa Vista, SP.
 
